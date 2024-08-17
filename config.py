@@ -13,7 +13,7 @@ API_HASH = os.environ.get("API_HASH", "b9708b698eed88f053454aed2598e571")
 
 OWNER = os.environ.get("OWNER", "WOLVERIN_P") #Owner username
 OWNER_ID = int(os.environ.get("OWNER_ID", "1383239349")) #Owner user id
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Filestore: Filestore@cluster0.emrntiv.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://fiwavew866:InNfBs6moAkaYeyt@cluster0.7jgv8.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluserhh")
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001866287032")) #database save channel id 
